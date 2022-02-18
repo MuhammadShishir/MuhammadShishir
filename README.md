@@ -15,13 +15,7 @@ Skills: C/C++/Python/Java/HTML/CSS/BootStrap/Javascript/PHP/MySQL/Scss/sass
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MuhammadShishir/)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/MuhammadShishir/&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/MuhammadShishir/)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/MuhammadShishir/)  
 
 <!--
 **MuhammadShishir/MuhammadShishir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
