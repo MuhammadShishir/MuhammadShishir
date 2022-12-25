@@ -6,7 +6,7 @@ Trying to get better with my Cyber Security and Networking skills. Practicing HT
 
 Skills: C/C++/Python/Java/HTML/CSS/BootStrap/Javascript/PHP/MySQL/Scss/sass
 
-- 🔭 I’m currently working on www.itiotech.com ,Thesis about Federated Learning etc.
+- 🔭 I’m currently working on Indie Game developement using unreal Engine 5 etc.
 - 🌱 I’m currently learning ANN,Machine Learning, Artificial Intelligence etc.
 - 📫 How to reach me: www.mdkamruzzaman.shishir@outlook.com 
 
