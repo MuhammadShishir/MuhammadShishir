@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is MuhammadShishir
 #### I am A web developer, programmer, and game developer (Unreal Engine).
-![I am A web developer, programmer, and game developer (Unreal Engine).](https://github.com/MuhammadShishir/MuhammadShishir/banner.png)
+![I am A web developer, programmer, and game developer (Unreal Engine).](https://github.com/MuhammadShishir/MuhammadShishir/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
 
 Trying to get better with my Cyber Security and Networking skills. Practicing HTML, CSS, BootStrap, Javascript, jQuery, PHP, MySQL, and PHPMyAdmin. I have grasped the basics of C, C++, Java, Python. Currently discovering them more in-depth and exploring additional languages. I also use Canva for my day to day Graphics Design jobs.
 
