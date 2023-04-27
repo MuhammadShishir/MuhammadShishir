@@ -2,7 +2,13 @@
 #### I am A web developer, programmer, and game developer (Unreal Engine).
 ![I am A web developer, programmer, and game developer (Unreal Engine).](https://github.com/MuhammadShishir/MuhammadShishir/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
 
-Trying to get better with my Cyber Security and Networking skills. Practicing HTML, CSS, BootStrap, Javascript, jQuery, PHP, MySQL, and PHPMyAdmin. I have grasped the basics of C, C++, Java, Python. Currently discovering them more in-depth and exploring additional languages. I also use Canva for my day to day Graphics Design jobs.
+#I am a multi-talented individual with experience in web development, programming, and Unreal Engine game development.
+
+#I am proficient with HTML, CSS, BootStrap, Javascript, jQuery, PHP, MySQL, and PHPMyAdmin, as well as C, C++, Java, Python, and R. I'm currently expanding my knowledge of these languages and discovering new ones.
+
+#I have graphic design talents in addition to programming and development, and I use Canva, Photoshop, and Illustrator for my day-to-day activities. In my spare time, I like dabbling in video editing.
+
+#My curiosity is voracious, and I spend the majority of my time learning about new topics and developing technology. I enjoy playing video games in my spare time.
 
 Skills: C/C++/Python/Java/HTML/CSS/BootStrap/Javascript/PHP/MySQL/Scss/sass
 
