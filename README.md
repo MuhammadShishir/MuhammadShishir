@@ -3,7 +3,7 @@
 
 ![I am A web developer, programmer, and game developer (Unreal Engine).](https://github.com/MuhammadShishir/MuhammadShishir/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
 
-**I am a multi-talented individual with experience in web development, programming, and Unreal Engine game development.** 
+**I have experience with web development, programming, and Unreal Engine game development.** 
 
 **I am proficient with HTML, CSS, BootStrap, Javascript, jQuery, PHP, MySQL, and PHPMyAdmin, as well as C, C++, Java, Python, and R. I'm currently expanding my knowledge of these languages and discovering new ones.** 
 
