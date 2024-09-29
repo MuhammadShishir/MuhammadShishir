@@ -23,15 +23,10 @@ Skills: C/C++/Python/Java/HTML/CSS/BootStrap/Javascript/PHP/MySQL/Scss/sass
 
 ## Connect With Me:
 
-| Platform   | 
-|------------|
-| **GitHub**     |
-| [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/MuhammadShishir)  |
-| **LinkedIn**   |
-| [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/md-kamruzzaman-shishir)  |
-| **Facebook**   |
-| [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/muhammad.shishir.75)  |
-| **Instagram**  |
-| [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/m.k.shishir)  |
-| **Website**    |
-| [![Website](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg)](https://mkshishir.pages.dev)  |
+| Platform   | Link                                                   |
+|------------|--------------------------------------------------------|
+| GitHub     | [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/MuhammadShishir)  |
+| LinkedIn   | [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/md-kamruzzaman-shishir)  |
+| Facebook   | [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/muhammad.shishir.75)  |
+| Instagram  | [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/m.k.shishir)  |
+| Website    | [![Website](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg)](https://mkshishir.pages.dev)  |
