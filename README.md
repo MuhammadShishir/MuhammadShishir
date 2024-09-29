@@ -18,30 +18,25 @@ Skills: C/C++/Python/Java/HTML/CSS/BootStrap/Javascript/PHP/MySQL/Scss/sass
 - 📫 How to reach me: www.mdkamruzzaman.shishir@outlook.com 
 - Resume : https://mkshishir.pages.dev/
 
-[<mgi src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MuhammadShishir) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-kamruzzaman-shishir)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muhammad.shishir.75) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m.k.shishir)  [
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mkshishir.pages.dev)  
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 ## Connect With Me:
 
 <p align="center">
-    <a href="https://github.com/MuhammadShishir">
+    <a href="https://github.com/MuhammadShishir"> Github
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="margin: 0 10px;">
     </a>
-    <a href="https://www.linkedin.com/in/md-kamruzzaman-shishir">
+    <a href="https://www.linkedin.com/in/md-kamruzzaman-shishir"> LinkedIn
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="margin: 0 10px;">
     </a>
-    <a href="https://www.facebook.com/muhammad.shishir.75">
+    <a href="https://www.facebook.com/muhammad.shishir.75">Facebook
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40" style="margin: 0 10px;">
     </a>
-    <a href="https://www.instagram.com/m.k.shishir">
+    <a href="https://www.instagram.com/m.k.shishir">Instagram
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40" style="margin: 0 10px;">
     </a>
-    <a href="https://mkshishir.pages.dev">
+    <a href="https://mkshishir.pages.dev">Website
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40" style="margin: 0 10px;">
     </a>
 </p>
