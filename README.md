@@ -23,20 +23,15 @@ Skills: C/C++/Python/Java/HTML/CSS/BootStrap/Javascript/PHP/MySQL/Scss/sass
 
 ## Connect With Me:
 
-<p align="center" size="1.2rem">
-    <button border="1em"><a href="https://github.com/MuhammadShishir"> Github
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="margin: 0 10px;">
-    </a></button>
-    <a href="https://www.linkedin.com/in/md-kamruzzaman-shishir"> LinkedIn
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="margin: 0 10px;">
-    </a>
-    <a href="https://www.facebook.com/muhammad.shishir.75">Facebook
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40" style="margin: 0 10px;">
-    </a>
-    <a href="https://www.instagram.com/m.k.shishir">Instagram
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40" style="margin: 0 10px;">
-    </a>
-    <a href="https://mkshishir.pages.dev">Website
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40" style="margin: 0 10px;">
-    </a>
-</p>
+| Platform   | 
+|------------|
+| **GitHub**     |
+| [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/MuhammadShishir)  |
+| **LinkedIn**   |
+| [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/md-kamruzzaman-shishir)  |
+| **Facebook**   |
+| [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/muhammad.shishir.75)  |
+| **Instagram**  |
+| [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/m.k.shishir)  |
+| **Website**    |
+| [![Website](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg)](https://mkshishir.pages.dev)  |
