@@ -17,10 +17,7 @@ Skills: C/C++/Python/Java/HTML/CSS/BootStrap/Javascript/PHP/MySQL/Scss/sass
 - 🌱 I’m currently learning PCG, Various Game Mechanics etc.
 - 📫 How to reach me: www.mdkamruzzaman.shishir@outlook.com 
 - Resume : https://mkshishir.pages.dev/
-
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
+- 
 ## Connect With Me:
 
 | GitHub   | LinkedIn   | Facebook   | Instagram   | Website    |
